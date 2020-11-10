@@ -1,0 +1,38 @@
+_repo: Under-the-Polar-Star-or-The-Young-Explorers_63549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weldon, Dwight
+    gutenberg_agent_id: '52502'
+    url: http://www.gutenberg.org/2009/agents/52502
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Buildering -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Merchant mariners -- Juvenile fiction'
+- !lcsh 'Eskimos -- Juvenile fiction'
+- !lcsh 'Stowaways -- Juvenile fiction'
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Flagellation -- Juvenile fiction'
+- !lcsh 'Whaling -- Juvenile fiction'
+- !lcsh 'Insurance fraud -- Juvenile fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Mutiny -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Trapping -- Juvenile fiction'
+- !lcsh 'Building, Ice and snow -- Juvenile fiction'
+- GITenberg
+title: Under the Polar Star; or, The Young Explorers
+url: http://www.gutenberg.org/ebooks/63549
